@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Adam Project - AI Personal Teacher
+# 🤖 Aiza Project - AI Personal Teacher
 
 ### *An Interactive 3D Avatar Powered by Google Gemini AI*
 
