@@ -379,7 +379,7 @@ If you encounter any issues or have questions:
 
 <div align="center">
 
-**Made with ❤️ by the Adam Project Team**
+**Made with ❤️ by the Aiza Project Team**
 
 ⭐ Star this repository if you find it helpful!
 
